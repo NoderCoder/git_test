@@ -1,0 +1,1 @@
+This is Mantra's first Git project
